@@ -13,4 +13,6 @@
 	type = cat-file -t
 	dump = cat-file -p
 [core]
-    editor = 'nvim'
+    editor = nvim
+[pager]
+    branch = false
