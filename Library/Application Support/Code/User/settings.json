@@ -1,0 +1,21 @@
+{
+  "vim.insertModeKeyBindings": [{
+      "before":["j","k"],
+      "after":["<Esc>"],
+  "vim.easymotion": true,
+  },
+],
+"workbench.startupEditor": "newUntitledFile",
+"explorer.confirmDelete": false,
+"workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+"editor.trimAutoWhitespace": true,
+"files.trimTrailingWhitespace": true,
+"files.insertFinalNewline": true,
+"files.trimFinalNewlines": true,
+"editor.fontFamily": "Fira Code",
+"workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+"editor.fontLigatures": true,
+"window.zoomLevel": 0,
+"vim.easymotion": true,
+"explorer.confirmDragAndDrop": false,
+}
