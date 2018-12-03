@@ -18,4 +18,9 @@
 "window.zoomLevel": 0,
 "vim.easymotion": true,
 "explorer.confirmDragAndDrop": false,
+"liveServer.settings.donotShowInfoMsg": true,
+"liveServer.settings.donotVerifyTags": true,
+"editor.formatOnSave": true,
+"go.formatTool": "goimports",
+"files.useExperimentalFileWatcher": true,
 }
