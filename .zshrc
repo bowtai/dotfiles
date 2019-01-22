@@ -92,6 +92,7 @@ alias love="/Applications/love.app/Contents/MacOS/love"
 alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
 alias vim="nvim"
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias python="/usr/local/bin/python3"
 
 # load zgen
 source "${HOME}/.zgen/zgen.zsh"
