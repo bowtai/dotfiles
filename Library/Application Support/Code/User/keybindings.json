@@ -1,12 +1,12 @@
 // Place your key bindings in this file to override the defaultsauto[]
-[
-    {
+[{
         "key": "cmd+n",
         "command": "-workbench.action.files.newUntitledFile"
     },
     {
         "key": "cmd+n",
-        "command": "explorer.newFile"
+        "command": "explorer.newFile",
+        "when": "explorerViewletFocus"
     },
     {
         "key": "shift+cmd+n",
@@ -14,6 +14,7 @@
     },
     {
         "key": "shift+cmd+n",
-        "command": "explorer.newFolder"
+        "command": "explorer.newFolder",
+        "when": "explorerViewletFocus"
     }
 ]
