@@ -16,5 +16,9 @@
         "key": "shift+cmd+n",
         "command": "explorer.newFolder",
         "when": "explorerViewletFocus"
+    },
+    {
+        "key": "cmd+n",
+        "command": "workbench.action.files.newUntitledFile"
     }
 ]
