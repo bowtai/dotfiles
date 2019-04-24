@@ -110,3 +110,7 @@ export PATH="/usr/local/bin:$PATH"
 
 # Change executable colors
 export LSCOLORS=GxfxcxdxDxegedabagacad
+
+# GOLANG
+export GOPATH=~/go
+export PATH="/usr/local/sbin:$PATH"

@@ -23,6 +23,30 @@
   "files.useExperimentalFileWatcher": true,
   "java.errors.incompleteClasspath.severity": "ignore",
   "rewrap.autoWrap.enabled": true,
-  "editor.formatOnSave": true,
   "python.pythonPath": "/usr/local/bin/python3",
+  "go.autocompleteUnimportedPackages": true,
+  "go.gopath": "~/go",
+  "sshfs.configs": [
+    {
+      "label": "iPhone X",
+      "root": "/",
+      "host": "Tais-iPhone",
+      "port": 22,
+      "username": "root",
+      "privateKeyPath": "/Users/tai.lai/.ssh/id_rsa",
+      "name": "iPhone"
+    },
+    {
+      "label": "iPhone X",
+      "root": "/",
+      "host": "Tais-iPhone",
+      "port": 22,
+      "username": "root",
+      "privateKeyPath": "/Users/tai.lai/.ssh/id_rsa",
+      "name": "iphone"
+    }
+  ],
+  "git.autofetch": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
