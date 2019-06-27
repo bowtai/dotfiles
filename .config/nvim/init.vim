@@ -28,7 +28,6 @@ hi LineNr ctermbg=none
 
 " vertical separator
 set fillchars-=vert:\| | set fillchars+=vert:\ 
-
 " NERDTree
 " autocmd vimenter * NERDTree
 " autocmd VimEnter * wincmd p
@@ -53,3 +52,5 @@ let g:NERDTreeNotificationThreshold=500
 
 " disable changing cursor
 set guicursor=
+
+set directory=.
