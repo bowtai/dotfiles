@@ -48,5 +48,7 @@
   ],
   "git.autofetch": true,
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.activityBar.visible": false,
+  "editor.minimap.enabled": false
 }
